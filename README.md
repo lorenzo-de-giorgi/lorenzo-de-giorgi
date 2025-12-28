@@ -6,4 +6,4 @@
 [![Back-End Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,ruby,rails,python,fastapi)](https://skillicons.dev)
 
 ### Currently Studying:
-[![Currently Studying Skills](https://skillicons.dev/icons?i=java,maven,spring,dotnet)](https://skillicons.dev)
+[![Currently Studying Skills](https://skillicons.dev/icons?i=java,maven,spring,dotnet,angular)](https://skillicons.dev)
